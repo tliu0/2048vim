@@ -3,11 +3,9 @@
 //                                                                  //
 // Game Manager for 2048                                            //
 //                                                                  //
-// Author:  Ujjwal Gulecha                                          //
 // Date:    10/12/16                                                //
 //                                                                  // 
-// Name: Tiffany Liu                                                //
-// Login: cs8bfch                                                   //
+// Name: Tiffany Liu                                                //                                                 
 // Sources of Help:                                                 //              
 //         Book: Introduction to Java Programming by Y. Daniel Liang//
 //                                                                  //
