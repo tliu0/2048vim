@@ -1,0 +1,24 @@
+
+Tiffany Liu
+A13039318
+CSE8B 
+
+
+SHORT RESPONSE
+1. :%s/fun/amazing/ —> finds “fun” in all lines and replaces with “amazing”
+:%s/fun/amazing/g —> replaces the first “fun” of each line with “amazing” 
+
+2. To create a directory “barDir” inside a directory “fooDir” in one command, type: “mkdir -p fooDir/barDir”.
+
+3. If I used “% ls begin*”, with “*” being the wild card, it would search for all files in the current directory that start with the word “begin”. 
+
+4. The command “vim -p *.java” would open all java files in the current directory in their respective tabs. 
+
+5. A static method is associated with the class rather than an object of that class, meaning that the variables are fixed in terms of location in memory, and shared between instances of the class. As a result, it’s not necessary to create an object from that class if you just want to access the static method from that class. An example would be main method:
+
+public static void main(String[] args) throws IOException{
+* CODE HERE *
+} 
+
+6. To make her code more efficient, the student could put subclasses of shapes underneath the super class ShapeDrawer— i.e. a class defining square, a class defining circle, and the method drawShape, with shape and color parameters (so drawSquare(ShapeDrawer shape, Color color)). That way, unnecessary repetition of code is eliminated, and inheritance is utilized to achieve the desired results.
+
