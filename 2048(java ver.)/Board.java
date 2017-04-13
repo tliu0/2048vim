@@ -3,11 +3,9 @@
 //                                                                  //
 // Class used to represent a 2048 game board                        //
 //                                                                  //
-// Author:  Ujjwal Gulecha                                          //
 // Date:    10/25/16                                                //
 //                                                                  //
 // Name: Tiffany Liu                                                //
-// Login: cs8bfch                                                   //
 // Sources of Help:                                                 //              
 //         Book: Introduction to Java Programming by Y. Daniel Liang//
 //                                                                  //
