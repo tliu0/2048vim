@@ -3,11 +3,9 @@
 //                                                                  //
 // GUI Driver for 2048                                             //
 //                                                                  //
-// Author:  Ujjwal Gulecha                               //
 // Date:    11/09/16                                                //
 //------------------------------------------------------------------//
 // Name: Tiffany Liu                                                //
-// Login: cs8bfch                                                   //
 // Sources of Help:                                                 //              
 //         Book: Introduction to Java Programming by Y. Daniel Liang//
 //                                                                  //
